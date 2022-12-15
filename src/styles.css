@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(33, 32, 32);
+    color: #fff;
+}
+
+textarea {
+    resize: none;
+}
